@@ -1,3 +1,0 @@
-python -m venv ./venv
-Set-ExecutionPolicy Unrestricted -Force (Only if gives error for unauthorized access)
-.\venv\Scripts\activate
